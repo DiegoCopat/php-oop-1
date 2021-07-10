@@ -191,8 +191,5 @@ $primoFilm->setAnnoDiProduzione(2001);
     </body>
 </html>
 
-echo "<br>Regista del film: ".$primoFilm->regista.";";
-echo "<br>Anno di produzione del film: ".$primoFilm->anno_di_produzione.";";
-
 
 
